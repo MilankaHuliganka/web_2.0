@@ -17,17 +17,19 @@
 //   }
 
 //3
-let pass = prompt('Введите пароль');
-let log = prompt('Введите логин');
-pass == radaloh;
-log == lohrada;
-if (pass == radaloh) {
-    alert('Доступ разрешен')
-} else {
-    alert('Запрещен')
-}
-if (log == lohrada) {
-    alert('Доступ разрешен')
-} else {
-    alert('Доступ запрещен')
-};
+// let pass = prompt('Введите пароль');
+// let log = prompt('Введите логин');
+// pass == radaloh;
+// log == lohrada;
+// if (pass == radaloh) {
+//     alert('Доступ разрешен')
+// } else {
+//     alert('Запрещен')
+// }
+// if (log == lohrada) {
+//     alert('Доступ разрешен')
+// } else {
+//     alert('Доступ запрещен')
+// };
+
+//4
